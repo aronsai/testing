@@ -7,7 +7,7 @@ public class test : MonoBehaviour {
 	void Start () {
 
         Debug.Log("test");
-        Debug.Log("Nu håller du truten aron");
+        Debug.Log("Nu håller du truten Emil");
 	
 	}
 	
